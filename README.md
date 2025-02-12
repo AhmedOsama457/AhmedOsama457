@@ -1,6 +1,6 @@
 # Ahmed Osama
 
-Welcome to my GitHub profile! I'm Ahmed Osama, a passionate Data Analyst with a strong background in Accounting and Data Analysis. I specialize in data analysis, data visualization, and SQL, with a focus on turning data into actionable insights.
+Welcome to my GitHub profile! I'm Ahmed Osama, a passionate Data Analyst with a strong background in Accounting and Data Analysis. I specialize in data analysis, data visualization, SQL, and Python, with a focus on turning data into actionable insights.
 
 ## 🎯 About Me
 - 💻 **Data Analysis Enthusiast**: I enjoy working on data projects to uncover trends and solve business problems.
@@ -18,6 +18,5 @@ Welcome to my GitHub profile! I'm Ahmed Osama, a passionate Data Analyst with a 
 
 ## 📬 Contact Me
 - 📧 **Email**: [ahmed.osama4570@gmail.com](mailto:ahmed.osama4570@gmail.com)
-- 🌐 **LinkedIn**: [Ahmed Osama](https://www.linkedin.com/in/ahmed-osama-7478a334a/)
-- 📊 **Tableau Public**: [Ahmed's Tableau Public](https://public.tableau.com/app/profile/your-tableau-profile-link)
+- 🌐 **LinkedIn**: [Ahmed Osama](https://www.linkedin.com/in/ahmed-osama-
 
